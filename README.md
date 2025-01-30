@@ -1,4 +1,4 @@
 # Markdown
 > hello
-<br />
-~~ hello ~~
+~~hello~~
+
