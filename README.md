@@ -1,2 +1,2 @@
 # Markdown
-Inline equation: $equation$
+While $f(x) \ne g(y)$ is space-saving, this is often clearer:
