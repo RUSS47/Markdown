@@ -1,4 +1,4 @@
 # Markdown
 > hello
 <br />
-We can use the `print` command in Python to debug the code.
+While $f(x) \ne g(y)$ is space-saving, this is often clearer:
