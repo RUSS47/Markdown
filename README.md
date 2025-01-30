@@ -1,4 +1,4 @@
 # Markdown
 > hello
 <br />
-print 'Hello'
+We can use the `print` command in Python to debug the code.
